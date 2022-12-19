@@ -1,0 +1,74 @@
+[
+  {
+    "Category Title": "African",
+    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/african/",
+    "Channels": [
+      {
+        "Recipe Title": "Green Shakshuka"
+      },
+      {
+        "Recipe Title": "Moroccan-Spiced Chicken Sliders"
+      }
+    ]
+  },
+  {
+    "Category Title": "Asia",
+    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/asian/",
+    "Channels": [
+      {
+        "Recipe Title": "Easy Shrimp and Scallops Ramen Soup"
+      },
+      {
+        "Recipe Title": "How to Make Easy and Delicious Japanese Coffee Jelly"
+      }
+    ]
+  },
+  {
+    "Category Title": "Caribbean",
+    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/caribbean/",
+    "Channels": [
+      {
+        "Recipe Title": "Sausage and Bean Skillet with Crispy Plantains"
+      },
+      {
+        "Recipe Title": "Instant Pot Puerto Rican Pernil"
+      }
+    ]
+  },
+  {
+    "Category Title": "Central & South America",
+    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/central-south-america/",
+    "Channels": [
+      {
+        "Recipe Title": "Arroz Verde con Pollo"
+      },
+      {
+        "Recipe Title": "Potato Quesadillas"
+      }
+    ]
+  },
+  {
+    "Category Title": "European",
+    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/european/",
+    "Channels": [
+      {
+        "Recipe Title": "The French Baguette Receives UN Cultural Protection\u2014Here\u2019s Why"
+      },
+      {
+        "Recipe Title": "Cowboy Pasta"
+      }
+    ]
+  },
+  {
+    "Category Title": "Jewish",
+    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/jewish/",
+    "Channels": [
+      {
+        "Recipe Title": "Your Guide to 7 Traditional Hanukkah Foods"
+      },
+      {
+        "Recipe Title": "The Jewish Brisket Recipe Everyone Should Learn How to Make"
+      }
+    ]
+  }
+]
