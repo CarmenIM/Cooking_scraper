@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 
-class Category:
+class Dish:
     def __init__(self, element, driver):
         self._element = element
         self._driver = driver
@@ -14,7 +14,7 @@ class Category:
         self._channels = []
 
     def extract_data(self):
-        title_element = self._element.find_element(By.TAG_NAME, 'a')
+        title_element = self._element.find_element(By.TAG_NAME, 'h2')
         self._title = title_element.text
         link_element = self._element.find_element(By.TAG_NAME, 'a')
         self._link = link_element.get_attribute('href')
@@ -23,28 +23,21 @@ class Category:
         self._driver.execute_script(f'window.open("{link_element.get_attribute("href")}")')
         self._driver.switch_to.window(self._driver.window_handles[-1])
 
-        WebDriverWait(self._driver, 30).until(
+        WebDriverWait(self._driver, 120).until(
             EC.presence_of_element_located((By.XPATH, './/div[@class="hamburger-wrapper"]')))
 
-        time.sleep(5)
-
-        channel_elements = self._driver.find_elements(By.XPATH, './/div[@class="category-card-content"]')
-        for index, channel_element in enumerate(channel_elements):
-        # for channel_element in channel_elements:
+        channel_elements = self._driver.find_elements(By.XPATH, './/main[@class="recipe-template"]')
+        for channel_element in channel_elements:
             channel = Channel(channel_element, self._driver)
             channel.extract_data()
             self._channels.append(channel)
-            if index == 1:
-                break
 
-        self._driver.close()
-        self._driver.switch_to.window(self._driver.window_handles[-1])
 
     def to_dict(self):
         return {
-            'Category Title': self._title,
-            'Category Link': self._link,
-            'Channels': [
+            'dish': self._title,
+            'link': self._link,
+            'instructions': [
                 channel.to_dict()
                 for channel in self._channels
             ]

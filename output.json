@@ -1,73 +1,232 @@
 [
   {
-    "Category Title": "African",
-    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/african/",
-    "Channels": [
+    "dish": "Mexican Hot Chocolate Cupcakes",
+    "link": "https://www.tasteofhome.com/recipes/mexican-hot-chocolate-cupcakes/",
+    "instructions": [
       {
-        "Recipe Title": "Green Shakshuka"
-      },
-      {
-        "Recipe Title": "Moroccan-Spiced Chicken Sliders"
+        "time": "Total Time\nPrep: 30 min. Bake: 15 min. + cooling",
+        "ingredients": "1 package chocolate cake mix (regular size)\n1 cup water\n1 cup mayonnaise\n3 large eggs, room temperature\n2 teaspoons ground cinnamon\n1/2 teaspoon cayenne pepper\n1 container (16 ounces) marshmallow creme\n1 can (16 ounces) chocolate frosting\n24 miniature marshmallows",
+        "picture": "https://www.tasteofhome.com/wp-content/themes/bumblebee-toh-child/images/recipes/Image-69-2x.png"
       }
     ]
   },
   {
-    "Category Title": "Asia",
-    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/asian/",
-    "Channels": [
+    "dish": "Easy Shrimp and Scallops Ramen Soup",
+    "link": "https://www.tasteofhome.com/recipes/easy-shrimp-and-scallops-ramen-soup/",
+    "instructions": [
       {
-        "Recipe Title": "Easy Shrimp and Scallops Ramen Soup"
-      },
-      {
-        "Recipe Title": "How to Make Easy and Delicious Japanese Coffee Jelly"
+        "time": "Total Time\nPrep/Total Time: 30 min.",
+        "ingredients": "1/2 pound sea scallops\n1/2 pound uncooked shrimp (16-20 per pound), peeled and deveined\n2 packages (3 ounces each) shrimp ramen noodles\n2 teaspoons sesame oil\n2 garlic cloves, minced\n2 cartons (32 ounces each) chicken broth\n2 tablespoons lime juice\n3 cups fresh bean sprouts\nOptional: Fresh cilantro leaves, black and white sesame seeds and lime wedges",
+        "picture": "https://www.tasteofhome.com/wp-content/themes/bumblebee-toh-child/images/recipes/Image-69-2x.png"
       }
     ]
   },
   {
-    "Category Title": "Caribbean",
-    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/caribbean/",
-    "Channels": [
+    "dish": "Cowboy Pasta",
+    "link": "https://www.tasteofhome.com/recipes/cowboy-pasta/",
+    "instructions": [
       {
-        "Recipe Title": "Sausage and Bean Skillet with Crispy Plantains"
-      },
-      {
-        "Recipe Title": "Instant Pot Puerto Rican Pernil"
+        "time": "Total Time\nPrep: 15 min. Bake: 20 min.",
+        "ingredients": "8 ounces medium pasta shells\n5 bacon strips, chopped\n1 pound ground beef\n1 medium red onion, chopped\n1 medium green or sweet red pepper, chopped\n2 garlic cloves, minced\n2 cups frozen corn, thawed\n1 can (14-1/2 ounces) diced tomatoes, drained\n1-1/4 cups buttermilk\n4 ounces cream cheese, cubed\n1 teaspoon chili powder\n1/2 teaspoon salt\n1/4 teaspoon pepper\n1 cup shredded Monterey Jack cheese",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/12/Cowboy-Pasta_EXPS_FT22_271010_ST_10_20_1-1.jpg?fit=700,1024"
       }
     ]
   },
   {
-    "Category Title": "Central & South America",
-    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/central-south-america/",
-    "Channels": [
+    "dish": "Arugula Pesto",
+    "link": "https://www.tasteofhome.com/recipes/arugula-pesto/",
+    "instructions": [
       {
-        "Recipe Title": "Arroz Verde con Pollo"
-      },
-      {
-        "Recipe Title": "Potato Quesadillas"
+        "time": "Total Time\nPrep/Total Time: 10 min.",
+        "ingredients": "4 cups fresh arugula\n1 cup fresh basil leaves\n1/2 cup grated Parmesan cheese\n1/4 cup pine nuts\n1/2 teaspoon minced garlic\n1 teaspoon sea salt\n1/2 cup olive oil",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/12/Arugula-Pesto_EXPS_TOHAM23_270546_P2_MD_11_04_9b-1.jpg?fit=700,1024"
       }
     ]
   },
   {
-    "Category Title": "European",
-    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/european/",
-    "Channels": [
+    "dish": "Loaded Cowboy Queso",
+    "link": "https://www.tasteofhome.com/recipes/loaded-cowboy-queso/",
+    "instructions": [
       {
-        "Recipe Title": "The French Baguette Receives UN Cultural Protection\u2014Here\u2019s Why"
-      },
-      {
-        "Recipe Title": "Cowboy Pasta"
+        "time": "Total Time\nPrep Time: 15 min. Cook Time: 15 min.",
+        "ingredients": "1/2 pound bulk spicy pork sausage\n1 cup Pale Ale or other light beer\n1 package (16 ounces) Velveeta, cubed\n1/2 cup shredded pepper jack cheese\n1 teaspoon salt\n1 teaspoon garlic powder\n1 teaspoon onion powder\n1/2 teaspoon cayenne pepper\n1 can (10 ounces) diced tomatoes with mild green chiles, undrained\n1 cup black beans, rinsed and drained\n1/4 cup minced fresh cilantro\nOptional: jalapenos and tortilla or corn chips",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/11/Loaded-Cowboy-Queso_EXPS_FT22_206562_ST_11_04_1.jpg?fit=700,1024"
       }
     ]
   },
   {
-    "Category Title": "Jewish",
-    "Category Link": "https://www.tasteofhome.com/recipes/cuisines/jewish/",
-    "Channels": [
+    "dish": "One-Pot Coconut Curry Lentil Soup",
+    "link": "https://www.tasteofhome.com/recipes/one-pot-coconut-curry-lentil-soup/",
+    "instructions": [
       {
-        "Recipe Title": "Your Guide to 7 Traditional Hanukkah Foods"
-      },
+        "time": "Total Time\nPrep: 10 min. Cook: 25.",
+        "ingredients": "1 package (16 ounces) dried lentils, rinsed\n1 carton (32 ounces) vegetable broth\n2 tablespoons curry powder\n1 garlic clove, minced\n2 cans (13.66 ounces each) coconut milk\n1/2 teaspoon kosher salt\nChopped green onions",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/11/One-Pot-Coconut-Curry-Lentil-Soup_EXPS_RC22_267961_P2onP3_MD_05_05_9b_v2-5.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Thai Meatball Soup",
+    "link": "https://www.tasteofhome.com/recipes/thai-meatball-soup/",
+    "instructions": [
       {
-        "Recipe Title": "The Jewish Brisket Recipe Everyone Should Learn How to Make"
+        "time": "Total Time\nPrep: 20 min. Cook: 30 min.",
+        "ingredients": "1/2 cup fresh cilantro, finely chopped\n1/3 cup unsweetened shredded coconut\n3 tablespoons teriyaki sauce, divided\n1/2 teaspoon salt\n1/2 teaspoon ground ginger\n1-1/2 pounds ground chicken\n1/4 cup sesame oil\n3 cups chicken broth\n1 can (13.66 ounces) coconut milk\n1-1/2 cups julienned carrots\n2 cups torn fresh kale\n4-1/2 teaspoons lime juice\n1 tablespoon brown sugar\nLime wedges, optional",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/11/Thai-Meatball-Soup_EXPS_RC22_268407_P2_MD_05_05_8b.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Sheet-Pan Salmon with Simple Bread Salad",
+    "link": "https://www.tasteofhome.com/recipes/sheet-pan-salmon-with-simple-bread-salad/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 20 min. Bake: 30 min.",
+        "ingredients": "3 cups cubed sourdough bread\n1 pint cherry tomatoes\n1 medium red onion, cut into wedges\n1/2 cup pitted Greek olives\n3 tablespoons olive oil, divided\n1-1/2 teaspoons sea salt, such as Maldon, divided\n1/8 teaspoon pepper\n6 salmon fillets (6 ounces each)\n1 teaspoon paprika\nDRESSING:\n2 tablespoons red wine vinegar\n1 tablespoon olive oil\n1/3 cup fresh Italian parsley leaves, coarsely chopped\n1 tablespoon capers, drained",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/11/Sheet-Pan-Salmon-with-Simple-Bread-Salad_EXPS_RC22_268006_P2_MD_05_05_5b-2.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Sausage and Bean Skillet with Crispy Plantains",
+    "link": "https://www.tasteofhome.com/recipes/sausage-and-bean-skillet-with-crispy-plantains/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep/Total Time: 30 min.",
+        "ingredients": "2 tablespoons canola oil\n2 celery ribs, thinly sliced\n1 medium sweet red pepper, chopped\n1 small onion, chopped\n1 package (14 ounces) smoked sausage, cut diagonally into 1/2-inch slices\n2 garlic cloves, minced\n1/2 teaspoon dried thyme\n1 can (15 ounces) black beans, rinsed and drained\n1 can (14-1/2 ounces) diced tomatoes, undrained\n1/4 teaspoon pepper\n1 cup plantain chips, crushed\n1/4 cup fresh cilantro leaves, chopped\nHot cooked rice, optional",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/11/Sausage-and-Bean-Skillet-with-Crispy-Plantains_EXPS_RC22_268338_P2_MD_05_05_12b.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Greek Tofu Scramble",
+    "link": "https://www.tasteofhome.com/recipes/greek-tofu-scramble/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep/Total Time: 25 min.",
+        "ingredients": "1 package (9 ounces) fresh spinach (about 10 cups)\n1 tablespoon butter\n2/3 pound firm tofu, drained and crumbled\n1/4 cup coarsely chopped pitted kalamata olives\n2 tablespoons fresh lemon juice\n2 teaspoons minced fresh oregano or 1 teaspoon dried oregano\n1/4 teaspoon pepper\n1/4 cup crumbled feta cheese\nOptional: Grated lemon zest and diced tomatoes",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/10/Greek-Tofu-Scramble_EXPS_TOHDJ23_75676_P3_MD_07_19_2b_1-4.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Blueberry Dump Cake",
+    "link": "https://www.tasteofhome.com/recipes/blueberry-dump-cake/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep Time: 10 min. Cook Time: 35 min.",
+        "ingredients": "1 can (21 ounces) blueberry pie filling\n1/2 teaspoon almond extract\n2 cups fresh or frozen blueberries\n1/3 cup packed brown sugar\n1 package (16-1/2 ounces) yellow cake mix\n3/4 cup butter, melted\nWhipped cream, optional",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/10/Blueberry-Dump-Cake_EXPS_FT22_270945_ST_10_12_1-1.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Pumpkin Sopapilla Cheesecake",
+    "link": "https://www.tasteofhome.com/recipes/pumpkin-sopapilla-cheesecake/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 15 min. Bake: 30 min. + chilling",
+        "ingredients": "2 packages (8 ounces each) cream cheese, softened\n1-1/2 cups sugar, divided\n1 teaspoon vanilla extract\n1-1/4 cups canned pumpkin\n2 tubes (8 ounces each) refrigerated crescent rolls\n1/2 cup butter, melted\n1 tablespoon pumpkin pie spice",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/10/Pumpkin-Sopapilla-Cheesecake_EXPS_TOHDJ23_189124_DR_07_14_14b.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Spicy Roasted Carrot Hummus",
+    "link": "https://www.tasteofhome.com/recipes/spicy-roasted-carrot-hummus/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 20 min. Roast: 15 min. + cooling",
+        "ingredients": "1 cup chopped carrot\n3 garlic cloves\n3 tablespoons olive oil, divided\n1 can (15 ounces) garbanzo beans or chickpeas, rinsed and drained\n2 tablespoons lemon juice\n2 tablespoons tahini\n1 tablespoon water\n1 teaspoon hot pepper sauce, such as Tabasco\n1/4 teaspoon sea salt\n1/4 teaspoon ground turmeric\n1/4 teaspoon ground cumin\n1/8 teaspoon cayenne pepper\n1/4 cup sunflower kernels\nAssorted fresh vegetables and pita wedges",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/10/Spicy-Roasted-Carrot-Hummus-_EXPS_RC22_269747_DR_09_30_6b.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Sicilian Pizza (Sfincione)",
+    "link": "https://www.tasteofhome.com/recipes/sicilian-pizza-sfincione/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 20 min. Bake: 20 min.",
+        "ingredients": "2 loaves (1 pound each) fresh or frozen pizza dough, thawed\n3 tablespoons olive oil, divided\n1 can (28 ounces) whole tomatoes, drained and crushed\n1 medium onion, finely chopped\n1 can (2 ounces) anchovy fillets, drained and broken into 1/4-inch pieces\n1 cup shredded mozzarella cheese\n1/2 cup soft bread crumbs\nFresh torn basil leaves",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/10/Sicilian-Pizza-Sfincione-_EXPS_RC22_267982_P2_MD_05_05_3b-2.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Mexicali Quiche with Avocado Crust",
+    "link": "https://www.tasteofhome.com/recipes/mexicali-quiche-with-avocado-crust/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 30 min. Bake: 30 min. + standing",
+        "ingredients": "6 ounces fresh chorizo\n1-1/2 cups all-purpose flour\n1-1/2 cups crushed Ritz crackers (about 38 crackers)\n1/2 teaspoon salt\n2/3 cup butter-flavored shortening\n1/2 cup cubed ripe avocado\n2 cups shredded Swiss cheese\n1 plum tomato, seeded and chopped\n1 can (4 ounces) chopped green chiles, drained\n5 large eggs\n1 cup heavy whipping cream\n1 cup half-and-half cream\n1/2 teaspoon ground cumin\nAdditional ripe avocado, peeled and sliced, optional",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/10/Mexicali-Quiche-with-Avocado-Crust_EXPS_RC22_268322_P2_MD_05_05_1b.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Caraway Brussels Sprouts",
+    "link": "https://www.tasteofhome.com/recipes/caraway-brussels-sprouts/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 15 min. Cook: 30 min.",
+        "ingredients": "2 pounds fresh Brussels sprouts, trimmed and halved\n6 teaspoons olive oil or bacon drippings\n1 large sweet onion or large red onion, sliced\n6 garlic cloves, thinly sliced\n2 teaspoons caraway seeds\n1 teaspoon dried thyme\n1/2 teaspoon kosher salt\n1/2 teaspoon coarsely ground pepper\n1/4 teaspoon crushed red pepper flakes\n1/4 cup maple syrup\n3 tablespoons sherry vinegar\n1 teaspoon Dijon mustard",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/09/Caraway-Brussels-Sprouts_EXPS_TOHON22_241214_DR_05_18_4b-1.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Frico (Cheese Crisps)",
+    "link": "https://www.tasteofhome.com/recipes/frico-cheese-crisps/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 5 min. Cook: 5 min./batch",
+        "ingredients": "1 cup shredded Parmesan, aged cheddar or Manchego cheese",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/09/Frico-Cheese-Crisps-_EXPS_TOHON22_268611_DR_05_20_1b.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Avocado-Lime Ranch Dressing",
+    "link": "https://www.tasteofhome.com/recipes/avocado-lime-ranch-dressing/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 15 min. + chilling",
+        "ingredients": "1/2 cup buttermilk\n1/2 cup sour cream\n1/4 cup mayonnaise\n1 medium ripe avocado, peeled and cubed\n2 tablespoons chopped fresh cilantro\n2 tablespoons lime juice\n1-1/2 teaspoons dill weed\n1/2 teaspoon salt\n1/2 teaspoon garlic powder\n1/2 teaspoon ground cumin\n1/4 teaspoon pepper",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/08/Avocado-Lime-Ranch-Dressing_EXPS_RC22_267942_DR_04_13_9b.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Hot Spinach and Artichoke Dip",
+    "link": "https://www.tasteofhome.com/recipes/hot-spinach-and-artichoke-dip/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 20 min. Bake: 40 min.",
+        "ingredients": "1 package (8 ounces) cream cheese, softened\n1/3 cup mayonnaise\n1/4 cup shredded Parmesan cheese\n1/4 cup shredded Asiago cheese\n1 teaspoon dried minced garlic\n1 teaspoon dried parsley flakes\n1/2 teaspoon celery salt\n1 can (14 ounces) water-packed artichoke hearts, drained and coarsely chopped\n5 ounces frozen chopped spinach, thawed and squeezed dry (about 1/2 cup)\n1 can (4 ounces) chopped green chiles, drained\n1 jar (2 ounces) diced pimientos, drained\n1/3 cup shredded part-skim mozzarella cheese\nTortilla chips or cubed sourdough bread",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/08/Hot-Spinach-and-Artichoke-Dip_EXPS_CCR22_268025_DR_04_13_6b.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Copycat 57 Sauce",
+    "link": "https://www.tasteofhome.com/recipes/copycat-57-sauce/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep/Total Time: 20 min.",
+        "ingredients": "1/2 cup boiling water\n1/2 cup raisins\n2/3 cup ketchup\n1/2 cup unsweetened applesauce\n3 tablespoons white vinegar\n1 tablespoon ground mustard\n1 teaspoon garlic powder\n1 teaspoon seasoned salt\n1 teaspoon chili powder\n1 teaspoon Worcestershire sauce\n1 teaspoon prepared yellow mustard",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/08/Copycat-57-Sauce-_EXPS_CCR22_268055_P2_MD_04_13_11b-5.jpg?fit=700,1024"
+      }
+    ]
+  },
+  {
+    "dish": "Air-Fryer Avocado Fries",
+    "link": "https://www.tasteofhome.com/recipes/air-fryer-avocado-fries/",
+    "instructions": [
+      {
+        "time": "Total Time\nPrep: 10 min. Cook: 10 min./batch",
+        "ingredients": "1 large egg, beaten\n1/4 cup cornmeal\n1/2 teaspoon salt\n1/2 teaspoon garlic powder\n1/2 teaspoon ground chipotle pepper\n2 medium avocados, peeled and sliced\nCooking spray\nOptional: lime wedges, salsa, pico de gallo or spicy ranch dressing",
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2022/08/Air-Fried-Avocado-_EXPS_EAFBZ22_269718_DR_06_21_8b.jpg?fit=700,1024"
       }
     ]
   }
